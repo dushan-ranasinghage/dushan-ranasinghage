@@ -45,12 +45,6 @@
   
 </p>
 
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/dushanranasinghe/count.svg" />
-     
-</p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
