@@ -20,16 +20,16 @@
 <a href="https://redux.js.org" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
-<a href="https://redux.js.org" target="_blank"> 
+<a href="https://nextjs.org/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="https://dotnet.microsoft.com/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org" target="_blank"> 
