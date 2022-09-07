@@ -6,10 +6,10 @@
 
 - 🔭 Full-Stack Engineer
 - 🌱 I’m currently open for new opportunies.
-- 👯 4+ years experience in ReactJS
-- 💬 Ask me about **React JS**, **Next JS**, and **.NET**
-- 📫 How to reach me: dushanrandika1994@gmail.com
-- ⚡  I love developing new shits.
+- 👯 3+ years of professional experience in React/ Redux, JavaScript
+- 💬 Ask me about **React JS**, **JavaScript**, and **.NET**
+- 📫 How to reach me: dushan.dev@outlook.com | dushanrandika1994@gmail.com
+- ⚡  I love developing new stuff.
 
 
 <h3 align="left">Languages and Tools:</h3>
