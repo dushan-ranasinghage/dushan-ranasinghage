@@ -1,4 +1,4 @@
-# Hi guys 👋  I'm Dushan Ranasinghe
+# Hi guys 👋  I'm Ranasinghage Dushan Randika Pathum
 
 
 
@@ -6,7 +6,7 @@
 
 - 🔭 Full-Stack Engineer
 - 🌱 I’m currently open for new opportunies.
-- 👯 3+ years of professional experience in React/ Redux, JavaScript
+- 👯 3+ years of professional experience in React/ Redux, JavaScript, and TypeScript
 - 💬 Ask me about **React JS**, **JavaScript**, and **.NET**
 - 📫 How to reach me: dushan.dev@outlook.com | dushanrandika1994@gmail.com
 - ⚡  I love developing new stuff.
