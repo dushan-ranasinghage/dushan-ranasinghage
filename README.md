@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I'm currently working as a Full-Stack Engineer.
+- 🔭 I'm currently working as a Intermediate Full-Stack Developer.
 - 🌱 Open for new opportunies.
 - 👯 3+ years of professional experience in React/ Redux, JavaScript, and TypeScript
 - 💬 Ask me about **React JS**, **JavaScript**, and **(C#).NET Framework**
