@@ -55,10 +55,10 @@
 
 <p align="center">
 <a href="https://github.com/dushanranasinghe">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dushanranasinghe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dushanranasinghe&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dushan-ranasinghage&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dushan-ranasinghage&layout=compact&langs_count=8&theme=algolia"/>
 </a>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushanranasinghe&theme=tokyonight_duo" alt="mystreak"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=dushan-ranasinghage&theme=tokyonight_duo" alt="mystreak"/>
 
 </p>
 
