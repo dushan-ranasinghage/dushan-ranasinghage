@@ -1,13 +1,10 @@
 # Hi guys 👋  I'm Ranasinghage Dushan Randika Pathum
 
 
-
-
-
 - 🔭 I'm currently working as an Intermediate Full-Stack Developer.
-- 🌱 Open for new opportunies.
+- 🌱 Based in Auckland, New Zealand
 - 👯 3+ years of professional experience in React/ Redux, JavaScript, and TypeScript
-- 💬 Ask me about **React JS**, **JavaScript**, and **(C#).NET Framework**
+- 💬 Ask me about **React**, **JavaScript**, and **.NET Framework (C#)**
 - 📫 How to reach me: dushan.dev@outlook.com | dushanrandika1994@gmail.com
 - ⚡  I love developing new stuff.
 
